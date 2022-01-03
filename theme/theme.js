@@ -44,9 +44,9 @@ const theme = createTheme({
         },
         // MuiAppBar: {
         //     defaultProps: {
-        //         color: 'transparent',
+        //         color: 'primary',
         //         elevation: 0,
-        //         position: 'static'
+        //         position: 'static',
         //     }
         // }
     },

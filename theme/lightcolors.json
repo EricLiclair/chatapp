@@ -3,7 +3,8 @@
         "main": "#0E4DA4"
     },
     "secondary": {
-        "main": "#263238"
+        "main": "#263238",
+        "light": "#263238"
     },
     "warning": {
         "main": "#FFBB12"
@@ -20,6 +21,6 @@
     },
     "background": {
         "default": "#000000",
-        "paper": "#F0F0F0"
+        "paper": "#f6f8fa"
     }
 }
