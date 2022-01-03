@@ -1,0 +1,25 @@
+{
+    "primary": {
+        "main": "#0E4DA4"
+    },
+    "secondary": {
+        "main": "#263238"
+    },
+    "warning": {
+        "main": "#FFBB12"
+    },
+    "error": {
+        "main": "#E74C3C"
+    },
+    "success": {
+        "main": "#1BB55C"
+    },
+    "text": {
+        "primary": "#FAFAFA",
+        "secondary": "#FAFAFA"
+    },
+    "background": {
+        "default": "#000000",
+        "paper": "#151515"
+    }
+}
