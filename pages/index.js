@@ -1,5 +1,3 @@
-import { Home } from '../views'
-
 export default function Index() {
-    return <Home />
+    return "This is home view"
 }
